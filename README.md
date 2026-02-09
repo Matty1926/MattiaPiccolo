@@ -1,5 +1,3 @@
-# MattiaPiccolo
-
 # Ciao, sono Mattia Piccolo! 👋
 
 ### 🚀 Aspirante Networking & Cybersecurity Specialist
@@ -24,8 +22,8 @@ Sono un appassionato di tecnologia con un debole per l'ambito Networking e Cyber
 ### 📊 Statistiche GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matty1926&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username[Matty1926&layout=compact&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matty1926&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Statistiche di Matty1926" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matty1926&layout=compact&theme=dracula" alt="Linguaggi più usati" />
 </p>
 
 ---
